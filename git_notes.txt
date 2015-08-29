@@ -1,0 +1,8 @@
+git init: start a new repository
+git branch: create a new branch
+git commit: current snapshot of current code
+git add: add content to the staging area
+git status: shows you status of current git repo and suggests things to do
+git log: prints out history of commits
+git checkout: changes branches
+git config: sets user name and email
