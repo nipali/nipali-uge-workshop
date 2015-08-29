@@ -1,0 +1,138 @@
+history | less
+history
+ls
+subl .
+ls /
+cd
+cd ../Downloads
+cd Applications
+cd ../..
+cd ..
+pwd
+cd Chrome\ Apps.localized
+cd documents
+ls -l
+clear
+ls -R
+ls -G
+ls -c
+ls -i
+man ls
+ls -U
+ls -rlt
+ls -r
+ls -t
+cd /
+cd ~/Downloads/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'nipali@vvhome.us'
+git config --global user.name 'Nipali Venkatesh'
+git --version
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+q
+rm -r my_cool_project
+git init my_cool_project
+source ~/.bash_profile
+source~/.bash_profile
+nano .bash_profile
+echo $SHELL
+nana .bash_profile
+sudo git --version
+sudo root
+git init
+git
+cd ~
+~
+ls /etc
+ls -a
+grep bash
+mkdir
+ls-l
+whereami
+uname
+ls -lrt
+ls -rt
+ls -t
+ls moving_around.txt 
+ls
+history > moving_around.txt
+history | less
+history
+subl .
+ls /
+cd
+cd ../Downloads
+cd Applications
+cd ../..
+cd ..
+pwd
+cd Chrome\ Apps.localized
+cd documents
+ls -l
+clear
+ls -R
+ls -G
+ls -c
+ls -i
+man ls
+ls -U
+ls -rlt
+ls -r
+cd /
+cd ~/Downloads/
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'nipali@vvhome.us'
+git config --global user.name 'Nipali Venkatesh'
+git --version
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+q
+rm -r my_cool_project
+git init my_cool_project
+source ~/.bash_profile
+source~/.bash_profile
+nano .bash_profile
+echo $SHELL
+nana .bash_profile
+sudo git --version
+sudo root
+git init
+git
+cd ~
+~
+ls /etc
+ls -a
+grep bash
+mkdir
+ls-l
+whereami
+uname
