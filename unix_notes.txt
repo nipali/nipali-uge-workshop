@@ -1,3 +1,5 @@
+#do not delete the .git file, you will lose your commits
+#hidden files start with . or ..
 history | less
 history
 ls
@@ -68,7 +70,7 @@ uname
 ls -lrt
 ls -rt
 ls -t
-ls moving_around.txt 
+ls moving_around.txt
 ls
 history > moving_around.txt
 history | less
